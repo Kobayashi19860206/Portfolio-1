@@ -4,8 +4,7 @@
   <br />
   <br />
   
-  <img src="./public/readme-images/moj.png" />
-
+  
   <h2 align="center">Yuuta Kobayashi - Personal portfolio</h2>
 
 This website is fully responsive personal portfolio, <br />Responsive for all devices, built using Nextjs, TailwindCSS only.
@@ -15,9 +14,6 @@ This website is fully responsive personal portfolio, <br />Responsive for all de
 
 <br />
 
-### Demo Screeshots
-
-![Kobayashi Portfolio Desktop Demo](./public/readme-images/portfolio.png "Desktop Demo")
 
 ### Prerequisites
 
